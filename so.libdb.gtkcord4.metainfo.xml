@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>so.libdb.gtkcord4</id>
+  <id>xyz.krafterdev.gtkcord4-spacebar</id>
 
-  <name>gtkcord4</name>
-  <summary>GTK4 Discord client in Go</summary>
+  <name>gtkcord4-sb</name>
+  <summary>GTK4 Spacebar client in Go</summary>
 
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>AGPL-3.0-only</project_license>
 
   <description>
     <p>
-      GTK4 Discord client in Go
+      GTK4 Spacebar client in Go
     </p>
   </description>
 
-  <launchable type="desktop-id">so.libdb.gtkcord4.desktop</launchable>
+  <launchable type="desktop-id">xyz.krafterdev.gtkcord4-spacebar.desktop</launchable>
   <screenshots>
     <screenshot type="default">
       <image>https://raw.githubusercontent.com/diamondburned/gtkcord4/v0.0.12/.github/screenshot4.png</image>
@@ -52,6 +52,6 @@
     </release>
   </releases>
 
-  <url type="homepage">https://github.com/diamondburned/gtkcord4</url>
-  <url type="bugtracker">https://github.com/diamondburned/gtkcord4/issues</url>
+  <url type="homepage">https://github.com/thekrafter/gtkcord4-spacebar</url>
+  <url type="bugtracker">https://github.com/thekrafter/gtkcord-spacebar/issues</url>
 </component>
