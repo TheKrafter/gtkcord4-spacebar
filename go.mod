@@ -1,4 +1,4 @@
-module github.com/diamondburned/gtkcord4
+module github.com/thekrafter/gtkcord4-spacebar
 
 go 1.18
 
