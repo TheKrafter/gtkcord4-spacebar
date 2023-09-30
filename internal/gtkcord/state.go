@@ -16,12 +16,12 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/diamondburned/arikawa/v3/api"
-	"github.com/diamondburned/arikawa/v3/discord"
-	"github.com/diamondburned/arikawa/v3/gateway"
-	"github.com/diamondburned/arikawa/v3/state"
-	"github.com/diamondburned/arikawa/v3/utils/httputil/httpdriver"
-	"github.com/diamondburned/arikawa/v3/utils/ws"
+	"github.com/thekrafter/arikawa-spacebar/v3/api"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/gateway"
+	"github.com/thekrafter/arikawa-spacebar/v3/state"
+	"github.com/thekrafter/arikawa-spacebar/v3/utils/httputil/httpdriver"
+	"github.com/thekrafter/arikawa-spacebar/arikawa/v3/utils/ws"
 	"github.com/diamondburned/chatkit/components/author"
 	"github.com/diamondburned/gotk4/pkg/glib/v2"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
@@ -40,10 +40,10 @@ func init() {
 		hostname = "PC"
 	}
 
-	api.UserAgent = "gtkcord4 (https://github.com/diamondburned/arikawa/v3)"
+	api.UserAgent = "gtkcord4 (https://github.com/thekrafter/arikawa-spacebar/v3)"
 	gateway.DefaultIdentity = gateway.IdentifyProperties{
 		OS:      runtime.GOOS,
-		Device:  "Arikawa",
+		Device:  "Arikawa (Spacebar Fork)",
 		Browser: "gtkcord4 on " + hostname,
 	}
 }
