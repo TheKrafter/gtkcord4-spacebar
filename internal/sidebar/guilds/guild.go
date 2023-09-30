@@ -5,8 +5,8 @@ import (
 
 	"github.com/thekrafter/arikawa-spacebar/v3/discord"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/sidebutton"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar/sidebutton"
 )
 
 type GuildController interface {

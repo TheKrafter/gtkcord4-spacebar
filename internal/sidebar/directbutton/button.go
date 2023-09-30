@@ -6,8 +6,8 @@ import (
 
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/sidebutton"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar/sidebutton"
 )
 
 type Button struct {

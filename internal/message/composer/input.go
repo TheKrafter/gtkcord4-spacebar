@@ -21,7 +21,7 @@ import (
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
 	"github.com/diamondburned/gotkit/gtkutil/textutil"
 	"github.com/diamondburned/gotkit/utils/osutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
 	"github.com/pkg/errors"
 )
 

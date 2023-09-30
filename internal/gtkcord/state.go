@@ -27,7 +27,7 @@ import (
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/app/prefs"
 	"github.com/diamondburned/gotkit/gtkutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/colorhash"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/colorhash"
 	"github.com/diamondburned/ningen/v3"
 	"github.com/diamondburned/ningen/v3/discordmd"
 

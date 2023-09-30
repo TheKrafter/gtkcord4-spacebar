@@ -7,7 +7,7 @@ import (
 	"github.com/thekrafter/arikawa-spacebar/v3/gateway"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/sidebutton"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar/sidebutton"
 )
 
 const (

@@ -9,7 +9,7 @@ import (
 	"github.com/thekrafter/arikawa-spacebar/v3/utils/ws"
 	"github.com/diamondburned/gotk4/pkg/glib/v2"
 	"github.com/diamondburned/gotkit/app/notify"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
 	"github.com/diamondburned/ningen/v3"
 )
 

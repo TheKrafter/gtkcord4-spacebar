@@ -10,7 +10,7 @@ import (
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
 	"github.com/diamondburned/ningen/v3/states/read"
 )
 

@@ -12,7 +12,7 @@ import (
 	"github.com/diamondburned/gotkit/app"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/window/login/loading"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/window/login/loading"
 	"github.com/pkg/errors"
 )
 

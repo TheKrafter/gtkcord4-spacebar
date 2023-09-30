@@ -9,11 +9,11 @@ import (
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/channels"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/direct"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/directbutton"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/guilds"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar/channels"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar/direct"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar/directbutton"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar/guilds"
 )
 
 // Controller is the parent controller that Sidebar controls.

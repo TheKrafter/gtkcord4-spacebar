@@ -11,11 +11,11 @@ import (
 	"github.com/diamondburned/gotkit/app"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
-	"github.com/thekrafter/gtkcord-spacebar/internal/message"
-	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar"
-	"github.com/thekrafter/gtkcord-spacebar/internal/window/backbutton"
-	"github.com/thekrafter/gtkcord-spacebar/internal/window/quickswitcher"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/message"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/sidebar"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/window/backbutton"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/window/quickswitcher"
 	"github.com/pkg/errors"
 )
 

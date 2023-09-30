@@ -19,7 +19,7 @@ import (
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
 	"github.com/diamondburned/gotkit/gtkutil/imgutil"
 	"github.com/diamondburned/gotkit/gtkutil/textutil"
-	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord4-spacebar/internal/gtkcord"
 )
 
 // ExtraMenuSetter is an interface for types that implement SetExtraMenu.
