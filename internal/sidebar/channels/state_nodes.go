@@ -5,7 +5,7 @@ import (
 	"html"
 	"sort"
 
-	"github.com/diamondburned/arikawa/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
 	"github.com/diamondburned/chatkit/components/author"
 )
 

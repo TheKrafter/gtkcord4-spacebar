@@ -6,13 +6,13 @@ import (
 	"html"
 	"time"
 
-	"github.com/diamondburned/arikawa/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
 	"github.com/diamondburned/chatkit/components/autocomplete"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotk4/pkg/pango"
 	"github.com/diamondburned/gotkit/components/onlineimage"
 	"github.com/diamondburned/gotkit/gtkutil/imgutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
 	"github.com/sahilm/fuzzy"
 )
 

@@ -13,7 +13,7 @@ schema = 3
   [mod."github.com/diamondburned/adaptive"]
     version = "v0.0.2-0.20221227093656-fa139be203a8"
     hash = "sha256-xIerrbYQf6FPbbRd60OnBStIJMl6mg/Qvl+LTmRbyIw="
-  [mod."github.com/diamondburned/arikawa/v3"]
+  [mod."github.com/thekrafter/arikawa-spacebar/v3"]
     version = "v3.3.1-0.20230609054540-4224b93c4e01"
     hash = "sha256-zDmcpqeJMEf0Qd0kOFkKKNhCASxNwBsh+fUOwsl1LFM="
   [mod."github.com/diamondburned/chatkit"]

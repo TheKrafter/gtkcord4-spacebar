@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/diamondburned/arikawa/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
 	"github.com/diamondburned/chatkit/components/autocomplete"
 	"github.com/diamondburned/chatkit/md/mdrender"
 	"github.com/diamondburned/gotk4/pkg/core/gioutil"
@@ -21,7 +21,7 @@ import (
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
 	"github.com/diamondburned/gotkit/gtkutil/textutil"
 	"github.com/diamondburned/gotkit/utils/osutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
 	"github.com/pkg/errors"
 )
 

@@ -3,7 +3,7 @@ package channels
 import (
 	"sort"
 
-	"github.com/diamondburned/arikawa/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
 )
 
 // drainer provides a drain method that filters and removes channels that the

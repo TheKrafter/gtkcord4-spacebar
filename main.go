@@ -12,10 +12,10 @@ import (
 	"github.com/diamondburned/gotkit/components/logui"
 	"github.com/diamondburned/gotkit/components/prefui"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
-	"github.com/diamondburned/gtkcord4/internal/window"
-	"github.com/diamondburned/gtkcord4/internal/window/about"
-	_ "github.com/diamondburned/gtkcord4/internal/icons"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/window"
+	"github.com/thekrafter/gtkcord-spacebar/internal/window/about"
+	_ "github.com/thekrafter/gtkcord-spacebar/internal/icons"
 
 	_ "github.com/diamondburned/gotkit/gtkutil/aggressivegc"
 )

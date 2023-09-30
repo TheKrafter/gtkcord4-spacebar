@@ -10,7 +10,7 @@ import (
 	"github.com/diamondburned/gotkit/app/prefs"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
 	"github.com/pkg/errors"
 )
 

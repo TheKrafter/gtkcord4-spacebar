@@ -1,6 +1,6 @@
 package gtkcord
 
-import "github.com/diamondburned/arikawa/v3/discord"
+import "github.com/thekrafter/arikawa-spacebar/v3/discord"
 
 // IPC commands go here.
 

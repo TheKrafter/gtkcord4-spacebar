@@ -4,13 +4,13 @@ import (
 	"context"
 	"sort"
 
-	"github.com/diamondburned/arikawa/v3/discord"
-	"github.com/diamondburned/arikawa/v3/gateway"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/gateway"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/app"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
 	"github.com/diamondburned/ningen/v3/states/read"
 	"github.com/pkg/errors"
 )

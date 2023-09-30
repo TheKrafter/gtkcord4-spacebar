@@ -5,14 +5,14 @@ import (
 	"strings"
 
 	"github.com/diamondburned/adaptive"
-	"github.com/diamondburned/arikawa/v3/session"
+	"github.com/thekrafter/arikawa-spacebar/v3/session"
 	"github.com/diamondburned/chatkit/components/secretdialog"
 	"github.com/diamondburned/chatkit/kits/secret"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/app"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/window/login/loading"
+	"github.com/thekrafter/gtkcord-spacebar/internal/window/login/loading"
 	"github.com/pkg/errors"
 )
 

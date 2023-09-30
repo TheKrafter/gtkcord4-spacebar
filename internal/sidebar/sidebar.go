@@ -5,15 +5,15 @@ import (
 	"context"
 	"log"
 
-	"github.com/diamondburned/arikawa/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
-	"github.com/diamondburned/gtkcord4/internal/sidebar/channels"
-	"github.com/diamondburned/gtkcord4/internal/sidebar/direct"
-	"github.com/diamondburned/gtkcord4/internal/sidebar/directbutton"
-	"github.com/diamondburned/gtkcord4/internal/sidebar/guilds"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/channels"
+	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/direct"
+	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/directbutton"
+	"github.com/thekrafter/gtkcord-spacebar/internal/sidebar/guilds"
 )
 
 // Controller is the parent controller that Sidebar controls.

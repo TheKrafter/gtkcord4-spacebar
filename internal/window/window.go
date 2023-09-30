@@ -7,7 +7,7 @@ import (
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/app"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/window/login"
+	"github.com/thekrafter/gtkcord-spacebar/internal/window/login"
 )
 
 // SetPreferDarkTheme sets whether or not GTK should use a dark theme.

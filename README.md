@@ -18,7 +18,7 @@ headers are also required.
 ### Pre-built Binary
 
 gtkcord4's CI automatically builds each release for Linux x86_64 and aarch64.
-See the [Releases](https://github.com/diamondburned/gtkcord4/releases) page for
+See the [Releases](https://github.com/thekrafter/gtkcord-spacebar/releases) page for
 the binaries.
 
 ### Compiling
@@ -28,5 +28,5 @@ You need Go 1.18+ for this step.
 To compile from scratch, run
 
 ```sh
-go install -v github.com/diamondburned/gtkcord4@latest
+go install -v github.com/thekrafter/gtkcord-spacebar@latest
 ```

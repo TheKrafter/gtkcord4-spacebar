@@ -30,10 +30,10 @@
   </content_rating>
   <releases>
     <release version="v0.0.6" date="2022-11-11">
-      <url>https://github.com/diamondburned/gtkcord4/releases/tag/v0.0.6</url>
+      <url>https://github.com/thekrafter/gtkcord-spacebar/releases/tag/v0.0.6</url>
     </release>
   </releases>
 
-  <url type="homepage">https://github.com/diamondburned/gtkcord4</url>
-  <url type="bugtracker">https://github.com/diamondburned/gtkcord4/issues</url>
+  <url type="homepage">https://github.com/thekrafter/gtkcord-spacebar</url>
+  <url type="bugtracker">https://github.com/thekrafter/gtkcord-spacebar/issues</url>
 </component>

@@ -4,12 +4,12 @@ import (
 	"context"
 	"log"
 
-	"github.com/diamondburned/arikawa/v3/state"
+	"github.com/thekrafter/arikawa-spacebar/v3/state"
 	"github.com/diamondburned/chatkit/kits/secret"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
 	"github.com/pkg/errors"
 )
 

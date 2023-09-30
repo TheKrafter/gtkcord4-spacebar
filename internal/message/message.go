@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"html"
 
-	"github.com/diamondburned/arikawa/v3/discord"
-	"github.com/diamondburned/arikawa/v3/gateway"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/gateway"
 	"github.com/diamondburned/chatkit/md/hl"
 	"github.com/diamondburned/gotk4/pkg/gio/v2"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
@@ -19,7 +19,7 @@ import (
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
 	"github.com/diamondburned/gotkit/gtkutil/imgutil"
 	"github.com/diamondburned/gotkit/gtkutil/textutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
 )
 
 // ExtraMenuSetter is an interface for types that implement SetExtraMenu.

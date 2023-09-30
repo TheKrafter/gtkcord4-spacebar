@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/diamondburned/adaptive"
-	"github.com/diamondburned/arikawa/v3/api"
-	"github.com/diamondburned/arikawa/v3/discord"
-	"github.com/diamondburned/arikawa/v3/gateway"
-	"github.com/diamondburned/arikawa/v3/utils/sendpart"
+	"github.com/thekrafter/arikawa-spacebar/v3/api"
+	"github.com/thekrafter/arikawa-spacebar/v3/discord"
+	"github.com/thekrafter/arikawa-spacebar/v3/gateway"
+	"github.com/thekrafter/arikawa-spacebar/v3/utils/sendpart"
 	"github.com/diamondburned/gotk4-adwaita/pkg/adw"
 	"github.com/diamondburned/gotk4/pkg/glib/v2"
 	"github.com/diamondburned/gotk4/pkg/gtk/v4"
@@ -18,8 +18,8 @@ import (
 	"github.com/diamondburned/gotkit/components/autoscroll"
 	"github.com/diamondburned/gotkit/gtkutil"
 	"github.com/diamondburned/gotkit/gtkutil/cssutil"
-	"github.com/diamondburned/gtkcord4/internal/gtkcord"
-	"github.com/diamondburned/gtkcord4/internal/message/composer"
+	"github.com/thekrafter/gtkcord-spacebar/internal/gtkcord"
+	"github.com/thekrafter/gtkcord-spacebar/internal/message/composer"
 	"github.com/pkg/errors"
 )
 
